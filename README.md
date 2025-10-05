@@ -1,3 +1,4 @@
+
 # 🧾 QR Code Converter
 
 A simple web app that instantly converts any text or URL into a QR code using HTML, CSS, and JavaScript.
